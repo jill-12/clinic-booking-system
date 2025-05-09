@@ -1,6 +1,6 @@
-# clinic-booking-system
 
-# 🏥 Clinic Appointment Booking System (MySQL Project)
+
+#  Clinic Appointment Booking System (MySQL Project)
 
 ##  Description
 
